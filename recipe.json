@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "John Smith",
+      "yearsOfExperience": 10,
+      "likes": 5000,
+      "shortBio": "John Smith is an award-winning chef with a passion for creating delicious and innovative dishes.",
+      "numberOfRecipes": 3,
+      "recipes": 
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.5
+        }
+    },
+    {
+      "id": 2,
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "John Smith",
+      "yearsOfExperience": 12,
+      "likes": 4000,
+      "shortBio": "John Smith is an award-winning chef with a passion for creating delicious and innovative dishes.",
+      "numberOfRecipes": 2,
+      "recipes": 
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.7
+        }
+    },
+    {
+      "id": 3,
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "John Smith",
+      "yearsOfExperience": 8,
+      "likes": 7000,
+      "shortBio": "John Smith is an award-winning chef with a passion for creating delicious and innovative dishes.",
+      "numberOfRecipes": 5,
+      "recipes": 
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.9
+        }
+    },
+    {
+      "id": 4,
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "John Smith",
+      "yearsOfExperience": 11,
+      "likes": 9000,
+      "shortBio": "John Smith is an award-winning chef with a passion for creating delicious and innovative dishes.",
+      "numberOfRecipes": 4,
+      "recipes": 
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.2
+        }
+    },
+    {
+      "id": 5,
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "John Smith",
+      "yearsOfExperience": 7,
+      "likes": 12000,
+      "shortBio": "John Smith is an award-winning chef with a passion for creating delicious and innovative dishes.",
+      "numberOfRecipes": 5,
+      "recipes": 
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.1
+        }
+    },
+    {
+      "id": 6,
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "John Smith",
+      "yearsOfExperience": 14,
+      "likes": 9000,
+      "shortBio": "John Smith is an award-winning chef with a passion for creating delicious and innovative dishes.",
+      "numberOfRecipes": 4,
+      "recipes": 
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 5
+        }
+    }
+]
