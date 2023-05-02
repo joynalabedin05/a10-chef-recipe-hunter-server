@@ -1,15 +1,42 @@
 [
     {
       "id": 1,
-      "chefPicture": "https://example.com/chef1.jpg",
+      "chefPicture": "https://images.pexels.com/photos/66639/pexels-photo-66639.jpeg?auto=compress&cs=tinysrgb&w=600",
       "chefName": "John Smith",
       "yearsOfExperience": 10,
       "likes": 5000,
-      "shortBio": "John Smith is an award-winning chef with a passion for creating delicious and innovative dishes.",
+      "shortBio": "While almost everything you post on your food blog should be written with SEO in mind, SEO content pieces are the most intentional. For example, notice how keywords are used so prominently in this post from SimpleBites. Yoast’s SEO plugin is helpful for such writing:",
       "numberOfRecipes": 3,
-      "recipes": 
+      "recipes": [
         {
           "recipeName": "Spicy Grilled Shrimp",
+          "id": 19,
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "id": 20,
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "id": 21,
           "ingredients": [
             "1 pound large shrimp, peeled and deveined",
             "1 tablespoon olive oil",
@@ -20,18 +47,22 @@
           "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
           "rating": 4.5
         }
+      ]
+        
     },
     {
       "id": 2,
-      "chefPicture": "https://example.com/chef1.jpg",
-      "chefName": "John Smith",
+      "chefPicture": "https://images.pexels.com/photos/3217156/pexels-photo-3217156.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chefName": "Lionel harsh",
       "yearsOfExperience": 12,
       "likes": 4000,
-      "shortBio": "John Smith is an award-winning chef with a passion for creating delicious and innovative dishes.",
+      "shortBio": "While almost everything you post on your food blog should be written with SEO in mind, SEO content pieces are the most intentional. For example, notice how keywords are used so prominently in this post from SimpleBites. Yoast’s SEO plugin is helpful for such writing:",
       "numberOfRecipes": 2,
       "recipes": 
+      [
         {
           "recipeName": "Spicy Grilled Shrimp",
+          "id": 22,
           "ingredients": [
             "1 pound large shrimp, peeled and deveined",
             "1 tablespoon olive oil",
@@ -40,20 +71,49 @@
             "1/2 teaspoon cumin"
           ],
           "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
-          "rating": 4.7
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "id": 23,
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "id": 24,
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.5
         }
+      ]
     },
     {
       "id": 3,
-      "chefPicture": "https://example.com/chef1.jpg",
-      "chefName": "John Smith",
+      "chefPicture": "https://images.pexels.com/photos/2696064/pexels-photo-2696064.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chefName": "Wax histeren",
       "yearsOfExperience": 8,
       "likes": 7000,
-      "shortBio": "John Smith is an award-winning chef with a passion for creating delicious and innovative dishes.",
+      "shortBio": "While almost everything you post on your food blog should be written with SEO in mind, SEO content pieces are the most intentional. For example, notice how keywords are used so prominently in this post from SimpleBites. Yoast’s SEO plugin is helpful for such writing:",
       "numberOfRecipes": 5,
       "recipes": 
+      [
         {
           "recipeName": "Spicy Grilled Shrimp",
+          "id": 7,
           "ingredients": [
             "1 pound large shrimp, peeled and deveined",
             "1 tablespoon olive oil",
@@ -62,20 +122,49 @@
             "1/2 teaspoon cumin"
           ],
           "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
-          "rating": 4.9
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "id": 8,
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "id": 9,
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.5
         }
+      ]
     },
     {
       "id": 4,
-      "chefPicture": "https://example.com/chef1.jpg",
-      "chefName": "John Smith",
+      "chefPicture": "https://images.pexels.com/photos/1397514/pexels-photo-1397514.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chefName": "Daniel Robbie",
       "yearsOfExperience": 11,
       "likes": 9000,
-      "shortBio": "John Smith is an award-winning chef with a passion for creating delicious and innovative dishes.",
+      "shortBio": "While almost everything you post on your food blog should be written with SEO in mind, SEO content pieces are the most intentional. For example, notice how keywords are used so prominently in this post from SimpleBites. Yoast’s SEO plugin is helpful for such writing:",
       "numberOfRecipes": 4,
       "recipes": 
+      [
         {
           "recipeName": "Spicy Grilled Shrimp",
+          "id": 10,
           "ingredients": [
             "1 pound large shrimp, peeled and deveined",
             "1 tablespoon olive oil",
@@ -84,20 +173,49 @@
             "1/2 teaspoon cumin"
           ],
           "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
-          "rating": 4.2
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "id": 11,
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "id": 12,
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.5
         }
+      ]
     },
     {
       "id": 5,
-      "chefPicture": "https://example.com/chef1.jpg",
-      "chefName": "John Smith",
+      "chefPicture": "https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chefName": " Smith Saha",
       "yearsOfExperience": 7,
       "likes": 12000,
-      "shortBio": "John Smith is an award-winning chef with a passion for creating delicious and innovative dishes.",
+      "shortBio": "While almost everything you post on your food blog should be written with SEO in mind, SEO content pieces are the most intentional. For example, notice how keywords are used so prominently in this post from SimpleBites. Yoast’s SEO plugin is helpful for such writing:",
       "numberOfRecipes": 5,
       "recipes": 
+      [
         {
           "recipeName": "Spicy Grilled Shrimp",
+          "id": 13,
           "ingredients": [
             "1 pound large shrimp, peeled and deveined",
             "1 tablespoon olive oil",
@@ -106,20 +224,49 @@
             "1/2 teaspoon cumin"
           ],
           "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
-          "rating": 4.1
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "id": 14,
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "id": 15,
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.5
         }
+      ]
     },
     {
       "id": 6,
-      "chefPicture": "https://example.com/chef1.jpg",
-      "chefName": "John Smith",
+      "chefPicture": "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chefName": "Rudhro Aush",
       "yearsOfExperience": 14,
       "likes": 9000,
-      "shortBio": "John Smith is an award-winning chef with a passion for creating delicious and innovative dishes.",
+      "shortBio": "While almost everything you post on your food blog should be written with SEO in mind, SEO content pieces are the most intentional. For example, notice how keywords are used so prominently in this post from SimpleBites. Yoast’s SEO plugin is helpful for such writing:",
       "numberOfRecipes": 4,
       "recipes": 
+      [
         {
           "recipeName": "Spicy Grilled Shrimp",
+          "id": 16,
           "ingredients": [
             "1 pound large shrimp, peeled and deveined",
             "1 tablespoon olive oil",
@@ -128,7 +275,34 @@
             "1/2 teaspoon cumin"
           ],
           "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
-          "rating": 5
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "id": 17,
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Spicy Grilled Shrimp",
+          "id": 18,
+          "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "1 tablespoon olive oil",
+            "1 tablespoon minced garlic",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon cumin"
+          ],
+          "cookingMethod": "Preheat grill to high. Toss shrimp with oil, garlic, chili powder, and cumin. Grill shrimp until pink and cooked through, about 2-3 minutes per side.",
+          "rating": 4.5
         }
+      ]
     }
 ]
